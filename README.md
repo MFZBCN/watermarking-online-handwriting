@@ -14,7 +14,6 @@ The repository currently includes:
 - X/Y centering utilities
 - Basic visualization for comparing original, watermarked, and recovered trajectories
 
-The current version focuses on **in-memory processing and validation**. Export back to FPG files is intentionally not included yet, until full format validation is completed.
 
 ## Repository structure
 
@@ -33,6 +32,8 @@ The current version focuses on **in-memory processing and validation**. Export b
       utils/
         center_signature_xy.m
         plot_signature_comparison.m
+      examples/
+        0002v00.fpg
 
 ## Requirements
 
