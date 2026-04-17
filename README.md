@@ -3,7 +3,7 @@ MATLAB toolbox for watermarking online handwriting signals
 
 ## Citation
 
-If you use this repository, please cite:
+If you use DE or LSB functions from this repository, please cite:
 
 ```bibtex
 @article{FaundezZanuy2025ESWA,
