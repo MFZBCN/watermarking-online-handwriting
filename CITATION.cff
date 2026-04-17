@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated publication."
+title: "watermarking-online-handwriting"
+type: software
+authors:
+  - family-names: "Faundez-Zanuy"
+    given-names: "Marcos"
+repository-code: "https://github.com/MFZBCN/watermarking-online-handwriting"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Faundez-Zanuy"
+      given-names: "Marcos"
+  title: "Comprehensive analysis of least significant bit and difference expansion watermarking algorithms for online signature signals"
+  journal: "Expert Systems with Applications"
+  volume: 267
+  year: 2025
+  article-number: 126214
+  doi: "10.1016/j.eswa.2024.126214"
